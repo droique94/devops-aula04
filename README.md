@@ -1,3 +1,6 @@
 # devops-aula04
 Exercícios da aula 04
-Velozes e Furiosos, Carga Explosiva, Steve Jobs
+Velozes e Furiosos<br>
+Vovózona<br>
+Steve Jobs<br>
+As branquelas<br>
